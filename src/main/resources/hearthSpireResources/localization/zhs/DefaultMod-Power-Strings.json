@@ -54,5 +54,13 @@
   "hearthSpire:ReachthePortalRoomPower": {
     "NAME": "抵达传送大厅",
     "DESCRIPTIONS": ["任务线: 生成1个 闪电 ， 冰霜 ， 等离子 ， 黑暗 充能球. 奖励：将奥术师晨拥洗进抽牌堆."]
+  },
+  "hearthSpire:FrostmournePower": {
+    "NAME": "霜之哀伤",
+    "DESCRIPTIONS": ["持续三个回合,重新打出本回合中使用的卡牌"]
+  },
+  "hearthSpire:TheLichKingPower": {
+    "NAME": "巫妖王",
+    "DESCRIPTIONS": ["在你回合开始时，随机将","张死亡骑士牌置入手牌中."]
   }
 }

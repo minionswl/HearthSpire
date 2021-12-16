@@ -54,5 +54,13 @@
   "hearthSpire:ReachthePortalRoomPower": {
     "NAME": "Reach the Portal Room",
     "DESCRIPTIONS": ["QuestLine: Channel 1 Lightning, 1 Frost, 1 Plasma and 1 Dark. Reward: Shuffle Arcanist Dawngrasp into your draw pile."]
+  },
+  "hearthSpire:FrostmournePower": {
+    "NAME": "Frostmourne",
+    "DESCRIPTIONS": ["Last 3 turns, replay every card you have played these turns"]
+  },
+  "hearthSpire:TheLichKingPower": {
+    "NAME": "The Lich King",
+    "DESCRIPTIONS": ["At the start of your turn, add "," random Death Knight card to your hand."]
   }
 }
